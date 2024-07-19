@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-a6+a+0vlh_xc+pigdj!4514&q18v_^t1-79ho7y=8!p*nmc#cf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jurisscanapi.loca.lt']
 
 
 # Application definition
